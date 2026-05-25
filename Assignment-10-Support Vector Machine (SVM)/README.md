@@ -1,18 +1,18 @@
-# Data Transformation
+# Support Vector Machine (SVM)
 
 ## 📌 Objective
-This assignment focuses on applying data transformation and preprocessing techniques to prepare data for Machine Learning models and improve model performance.
+This assignment focuses on implementing Support Vector Machine (SVM) algorithms for classification tasks and analyzing model performance using Python in Jupyter Notebook.
 
 ---
 
 ## 📚 Topics Covered
-- Data Transformation
+- Support Vector Machine (SVM)
+- Classification Techniques
+- Kernel Functions
+- Hyperplane and Margin
 - Data Preprocessing
-- Feature Scaling
-- Normalization
-- Standardization
-- Encoding Techniques
-- Handling Missing Values
+- Model Training and Testing
+- Prediction and Evaluation
 
 ---
 
@@ -28,7 +28,7 @@ This assignment focuses on applying data transformation and preprocessing techni
 ---
 
 ## 📂 Files Included
-- `Data_Transformation.ipynb`
+- `Support_Vector_Machine.ipynb`
 - `Pharma_Industry.csv`
 - `README.md`
 
@@ -38,17 +38,17 @@ This assignment focuses on applying data transformation and preprocessing techni
 1. Download the repository files  
 2. Open Jupyter Notebook  
 3. Open the `.ipynb` notebook file  
-4. Run all cells sequentially to perform data preprocessing and transformation techniques  
+4. Run all cells sequentially to train and evaluate the SVM model  
 
 ---
 
 ## 📊 Dataset Information
-The dataset contains structured data used for applying preprocessing methods such as scaling, normalization, encoding, and feature transformation for Machine Learning tasks.
+The dataset contains structured data used for classification and prediction tasks using Support Vector Machine algorithms.
 
 ---
 
 ## 🎯 Learning Outcome
-Successfully learned how to preprocess and transform raw data into a suitable format for Machine Learning algorithms using various data transformation techniques.
+Successfully learned how to build and evaluate Support Vector Machine models, apply kernel techniques, and perform classification tasks using Machine Learning algorithms.
 
 ---
 
