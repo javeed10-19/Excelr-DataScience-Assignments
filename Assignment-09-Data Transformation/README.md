@@ -1,17 +1,17 @@
 # Data Transformation
 
 ## 📌 Objective
-This assignment focuses on applying data transformation techniques to preprocess and prepare data for Machine Learning models using Python in Jupyter Notebook.
+This assignment focuses on applying data transformation and preprocessing techniques to prepare data for Machine Learning models and improve model performance.
 
 ---
 
 ## 📚 Topics Covered
+- Data Transformation
 - Data Preprocessing
+- Feature Scaling
 - Normalization
 - Standardization
-- Encoding Categorical Variables
-- Feature Scaling
-- Data Cleaning
+- Encoding Techniques
 - Handling Missing Values
 
 ---
@@ -21,59 +21,29 @@ This assignment focuses on applying data transformation techniques to preprocess
 - Jupyter Notebook
 - Pandas
 - NumPy
+- Matplotlib
+- Seaborn
 - Scikit-learn
 
 ---
 
 ## 📂 Files Included
 - `Data_Transformation.ipynb`
-- `dataset.csv`
+- `adult_with_headers (1).csv`
 - `README.md`
 
 ---
 
 ## ▶️ How to Run
-
-### Step 1: Open Anaconda Prompt
-
-Navigate to the project folder:
-
-```bash
-cd Desktop/Assignment-11-Data-Transformation
-```
-
-OR
-
-```bash
-cd "C:\Users\YourName\Desktop\Assignment-11-Data-Transformation"
-```
-
----
-
-### Step 2: Launch Jupyter Notebook
-
-Run the following command:
-
-```bash
-jupyter notebook
-```
-
----
-
-### Step 3: Open the Notebook
-
-Open:
-
-```text
-Data_Transformation.ipynb
-```
-
-Run all cells sequentially to perform data preprocessing and transformation techniques.
+1. Download the repository files  
+2. Open Jupyter Notebook  
+3. Open the `.ipynb` notebook file  
+4. Run all cells sequentially to perform data preprocessing and transformation techniques  
 
 ---
 
 ## 📊 Dataset Information
-The dataset contains structured data used for applying feature scaling, normalization, encoding, and preprocessing techniques for Machine Learning preparation.
+The dataset contains structured data used for applying preprocessing methods such as scaling, normalization, encoding, and feature transformation for Machine Learning tasks.
 
 ---
 
