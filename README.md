@@ -39,6 +39,25 @@ Matplotlib
 Scikit-learn
 Jupyter Notebook
 
+📊 Datasets
+
+Some assignment folders contain datasets used for analysis and model building.
+All datasets are available inside the data/ folder and respective assignment folders.
+
+Dataset formats used:
+
+.csv
+.xlsx
+.txt
+
+These datasets are used for:
+
+.Data Cleaning
+.Exploratory Data Analysis
+.Statistical Analysis
+.Machine Learning Model Training
+.Prediction & Evaluation
+
 ## 🎯 Objective
 
 The main objective of this repository is to demonstrate my practical learning journey and hands-on experience in Data Science, Machine Learning, and Deep Learning through real-world assignments and implementations.
