@@ -47,15 +47,21 @@ All datasets are available inside the data/ folder and respective assignment fol
 Dataset formats used:
 
 .csv
+
 .xlsx
+
 .txt
 
 These datasets are used for:
 
 .Data Cleaning
+
 .Exploratory Data Analysis
+
 .Statistical Analysis
+
 .Machine Learning Model Training
+
 .Prediction & Evaluation
 
 ## 🎯 Objective
