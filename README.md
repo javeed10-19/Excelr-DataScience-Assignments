@@ -27,20 +27,20 @@ This repository contains all the assignments and hands-on projects completed dur
 ## 🛠️ Skills & Technologies
 Programming & Analysis
 
-Python
-SQL
-Statistics
-Data Analysis
-Machine Learning
-Data Visualization
+Python,
+SQL,
+Statistics,
+Data Analysis,
+Machine Learning,
+Data Visualization.
 
 Libraries & Tools
 
-Pandas
-NumPy
-Matplotlib
-Scikit-learn
-Jupyter Notebook
+Pandas,
+NumPy,
+Matplotlib,
+Scikit-learn,
+Jupyter Notebook.
 
 ## 📊 Datasets
 
