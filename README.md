@@ -26,20 +26,23 @@ This repository contains all the assignments and hands-on projects completed dur
 
 ## 🛠️ Skills & Technologies
 Programming & Analysis
+
 Python
 SQL
 Statistics
 Data Analysis
 Machine Learning
 Data Visualization
+
 Libraries & Tools
+
 Pandas
 NumPy
 Matplotlib
 Scikit-learn
 Jupyter Notebook
 
-📊 Datasets
+## 📊 Datasets
 
 Some assignment folders contain datasets used for analysis and model building.
 All datasets are available inside the data/ folder and respective assignment folders.
